@@ -48,6 +48,9 @@ This repository contains a collection of data science mini projects. Each projec
 - Analyzing NYC Public School Test Result Scores  
   Examining standardized test results in New York City public schools.
 
+- Recipe Site Traffic Analysis  
+  Capstone project from the Data Scientist Certification. Analyzing web traffic trends and user behavior on a recipe website to derive actionable insights.
+
 ## Contents
 
 Each folder contains:
